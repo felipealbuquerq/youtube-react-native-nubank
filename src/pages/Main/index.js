@@ -85,7 +85,7 @@ export default function Main() {
             </CardContent>
             <CardFooter>
               <Annotation>
-                Transferência de R$ 20,00 recebida de Diego Schell Fernandes hoje às 06:00h
+                Transferência de R$ 20,00 recebida de Érica Sene hoje às 06:00h
               </Annotation>
             </CardFooter>
           </Card>
